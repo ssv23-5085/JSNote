@@ -44,7 +44,7 @@ JSNote/
 ## 🧭 How to Run
 1. Clone this repository:
    ```bash
-   git clone https://github.com/<your-username>/JSNote.git
+   git clone https://github.com/ssv23-5085/JSNote.git
    ```
 2. Open the project in your favorite IDE (IntelliJ IDEA, Eclipse, or VS Code).  
 3. Run the `JSNote.java` file.  
@@ -68,12 +68,9 @@ JSNote/
 ---
 
 ## 📸 Project Screenshot
-*(You can add a screenshot later after uploading your project)*  
-```
-[Add Image Here]
-```
 
----
+<img width="959" height="500" alt="JS_NoteFindReplace" src="https://github.com/user-attachments/assets/52ffa1f9-440a-4475-a9bb-a921aabf6f4a" />
+
 
 ## 💬 About Me
 👨‍💻 **Saurav Surendra Makeshwar**  
